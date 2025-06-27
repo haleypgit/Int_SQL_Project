@@ -164,7 +164,7 @@ The revenue per customer is steadily declining across cohorts (from ~$5,272 in 2
 ✅ Retention-first → Onboarding overhaul → Segment-driven growth → Fix product/pricing gaps
 
 
-##Technical Details
+## Technical Details
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL, DBeaver, PGAdmin
 - **Visualization:** Chat GPT
